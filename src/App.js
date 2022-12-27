@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>clover-ware has edited her first react app</p>
       </header>
     </div>
   );
